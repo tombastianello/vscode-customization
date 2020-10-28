@@ -2,3 +2,4 @@
 mkdir .vscode
 cd .vscode
 curl "https://raw.githubusercontent.com/tombastianello/vscode-customization/main/configs/settings.json" -o "settings.json"
+echo "Done."
