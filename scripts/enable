@@ -1,4 +1,4 @@
 #!/bin/bash
 mkdir .vscode
 cd .vscode
-curl "" -o settings.json
+curl "https://raw.githubusercontent.com/tombastianello/vscode-customization/main/configs/settings.json" -o settings.json
