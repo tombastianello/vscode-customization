@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir .vscode
+cd .vscode
+curl "" -o settings.json

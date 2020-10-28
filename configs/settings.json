@@ -1,0 +1,46 @@
+{
+    "terminal.integrated.fontFamily": "Meslo LG S for Powerline",
+    "terminal.integrated.shell.linux": "/usr/bin/zsh",
+    "workbench.colorCustomizations": {
+        "sideBar.background": "#282a2e",
+        "editor.background": "#1d1f21",
+        "terminal.background": "#1d1f21",
+        "terminal.ansiBlack" : "#001e25",
+        "terminal.ansiBlue" : "#ffffff",
+        "terminal.ansiBrightBlack" : "#8f8f8f",
+        "terminal.ansiBrightBlue" : "#839496",
+        "terminal.ansiBrightCyan" : "#D33682",
+        "terminal.ansiBrightGreen" : "#B58900",
+        "terminal.ansiBrightPurple" : "#EEE8D5",
+        "terminal.ansiBrightRed" : "#CB4B16",
+        "terminal.ansiBrightWhite" : "#FDF6E3",
+        "terminal.ansiBrightYellow" : "#586E75",
+        "terminal.ansiCyan" : "#2AA198",
+        "terminal.ansiGreen" : "#859900",
+        "terminal.ansiPurple" : "#6C71C4",
+        "terminal.ansiRed" : "#DC322F",
+        "terminal.ansiWhite" : "#ffffff",
+        "terminal.ansiYellow" : "#e7b100",
+        "sideBar.foreground": "#ffffff",
+        "activityBar.background": "#1d1f21",
+        "activityBar.foreground": "#ffffff",
+        "activityBar.inactiveForeground": "#d6d6d6",
+        "statusBar.background": "#4d4d4c",
+        "statusBarItem.remoteBackground": "#eab700",
+        "statusBarItem.remoteForeground": "#1d1f21",
+        "titleBar.activeBackground": "#4d4d4c",
+        "titleBar.activeForeground": "#ffffff"
+    },
+    "editor.tokenColorCustomizations": {
+        "strings": "#ffc58f",
+        "types": "#66cccc",
+        "comments": "#99cc99",
+        "variables": "#ff9da4"
+    },
+    "git.ignoreLimitWarning": true,
+    "files.exclude": {
+        "**/.vscode": false,
+        "**/.ssh": true
+    },
+    "python.pythonPath": "/usr/bin/python3",
+}
