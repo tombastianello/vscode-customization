@@ -1,0 +1,23 @@
+"schemes": [
+        {
+            "background" : "#001d24",
+            "black" : "#001e25",
+            "blue" : "#ffffff",
+            "brightBlack" : "#8f8f8f",
+            "brightBlue" : "#839496",
+            "brightCyan" : "#D33682",
+            "brightGreen" : "#B58900",
+            "brightPurple" : "#EEE8D5",
+            "brightRed" : "#CB4B16",
+            "brightWhite" : "#ffffff",
+            "brightYellow" : "#586E75",
+            "cyan" : "#2AA198",
+            "foreground" : "#93A1A1",
+            "green" : "#859900",
+            "name" : "wsl",
+            "purple" : "#6C71C4",
+            "red" : "#DC322F",
+            "white" : "#ffffff",
+            "yellow" : "#e7b100"
+        }
+    ],
